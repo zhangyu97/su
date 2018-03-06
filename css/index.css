@@ -73,6 +73,9 @@ input{
 .ttwo a .iconfont{
 	color: #fff;
 }
+.fixed ul li.active a .iconfont{
+	color: #fff;
+}
 .fixed li.si{
 	width:35px;
 	height: 30px;
